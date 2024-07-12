@@ -1,0 +1,25 @@
+/* typography */
+body {
+    background-color: var(--light-gray);
+    color: var(--grey-blue);
+    font-family: var(--ff-main);
+    font-size: var(--fs-main);
+    font-weight: var(--fw-regular);
+}
+header {
+    width: 90%;
+    text-align: center;
+    margin-bottom: 16px;
+}
+h1 {
+    font-size: 24px;
+    font-weight: var(--fw-light);
+
+    span {
+        color: var(--dark-blue);
+        font-weight: var(--fw-bold);
+    }
+}
+h2 {
+    color: var(--dark-blue);
+}

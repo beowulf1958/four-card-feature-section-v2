@@ -1,0 +1,24 @@
+:root {
+    // ## Colors
+    
+    // ### Primary
+    --red: hsl(0, 78%, 62%);
+    --cyan: hsl(180, 62%, 55%);
+    --orange: hsl(34, 97%, 64%);
+    --blue: hsl(212, 86%, 64%);
+
+    // ### Neutral
+    --dark-blue: hsl(234, 12%, 34%);
+    --grey-blue: hsl(229, 6%, 66%);
+    --light-gray: hsl(0, 0%, 98%);
+
+    // ### Fonts
+    --ff-main: 'Poppins';
+
+    --fs-main: 0.9375rem;
+
+    --fw-light: 200;
+    --fw--regular: 400;
+    --fw-bold: 600;
+
+}
